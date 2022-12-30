@@ -4,11 +4,6 @@ A small/medium finance company deals in all types of loans. They have presence a
 
 This is a standard supervised classification task.A classification problem where we have to predict whether a loan would be approved or not. Below is the dataset attributes with description.
 ![1](https://user-images.githubusercontent.com/109596948/200132554-90646790-9476-4a2b-a34a-96848b9b868c.png)
-## Libraries
-1.pandas
-2.matplotlib
-3.seaborn
-4.scikit-learn
 ## Algorithms
 1.Logistic Regression
 
@@ -17,4 +12,10 @@ This is a standard supervised classification task.A classification problem where
 3.Random Forest
 
 4.Extra Tress
-
+## Technologies
+Programming Language: Python
+Libraries: Numpy, Pandas, Scikit-learn, Matplotlib
+## Model
+Logistic Regression Model -
+Accuracy : 75.974%
+Cross-Validation Score : 79.804%
