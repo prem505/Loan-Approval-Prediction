@@ -14,8 +14,11 @@ This is a standard supervised classification task.A classification problem where
 4.Extra Tress
 ## Technologies
 Programming Language: Python
+
 Libraries: Numpy, Pandas, Scikit-learn, Matplotlib
 ## Model
 Logistic Regression Model -
+
 Accuracy : 75.974%
+
 Cross-Validation Score : 79.804%
