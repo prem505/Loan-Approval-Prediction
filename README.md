@@ -11,6 +11,10 @@ This is a standard supervised classification task.A classification problem where
 4.scikit-learn
 ## Algorithms
 1.Logistic Regression
+
 2.Decision Tree
+
 3.Random Forest
+
 4.Extra Tress
+
